@@ -1,1 +1,2 @@
 # AI-Reinforcement-Learning
+This project involves creating an AI agent that learns to balance a pole on a moving cart using reinforcement learning techniques. Instead of relying on existing libraries, the entire algorithm was implemented from scratch. This hands-on approach provided a deeper understanding of the underlying principles of reinforcement learning, including policy updates, reward systems, and environment interactions.
